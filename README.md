@@ -1,0 +1,4 @@
+minimosd-extra
+==============
+
+MinimOsd Extra
