@@ -1,4 +1,4 @@
 minimosd-extra
 ==============
 
-MinimOsd Extra
+Personal repo to migrate MinimOsd_Extra code
